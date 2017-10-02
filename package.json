@@ -5,9 +5,9 @@
   "main": "index.js",
   "dependencies": {
     "cheerio": "~0.10.5",
-    "debug": "~0.7.0",
+    "debug": "~2.6.9",
     "protobufjs": "~2.0.0-rc2",
-    "superagent": "~0.12.0",
+    "superagent": "~2.0.0",
     "ws": "~0.4.25",
     "readable-stream": "~0.2.0"
   },
