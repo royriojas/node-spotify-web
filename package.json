@@ -4,7 +4,7 @@
   "description": "NodeJS implementation of the Spotify Web protocol",
   "main": "index.js",
   "dependencies": {
-    "cheerio": "~0.10.5",
+    "cheerio": "~0.14.0",
     "debug": "~0.7.0",
     "protobufjs": "~2.0.0-rc2",
     "superagent": "~0.12.0",
